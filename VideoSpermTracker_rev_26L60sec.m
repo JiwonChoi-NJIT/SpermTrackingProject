@@ -17,13 +17,8 @@ RandStream.setGlobalStream(s)
 % dbstop if error
 
 % Video A
-dataFile = '/Users/lurbano/Desktop/IEEETMIPaper/NewVideos/544_w4_200x_TRIM.mp4_NewNewDataFile.dat';
-videoFile = '/Users/lurbano/Desktop/IEEETMIPaper/NewVideos/544_w4_200x_TRIM.mp4';
-
-% Video B
-% dataFile = '/Users/lurbano/Desktop/IEEETMIPaper/NewVideos/449_w3_200x_TRIM.mp4_NewDataFile.dat';
-% videoFile = '/Users/lurbano/Desktop/IEEETMIPaper/NewVideos/449_w3_200x_TRIM.mp4';
-
+dataFile = '/Users/EXAMPLE/Desktop/EXAMPLE.mp4_NewNewDataFile.dat';
+videoFile = '/Users/EXAMPLE/Desktop/EXAMPLE.mp4';
 
 % Load Data File
 zTotal = csvread(dataFile);
