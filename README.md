@@ -6,7 +6,10 @@ Main project code files:
 - VideoSpermTracker_rev_26L60sec.m
 - analyzeTrackRecord_rev_7L.m
 
-Code for Automatic Tracking and Motility Analysis of Human Sperm in Time-Lapse Images by Leonardo F. Urbano, Puneet Masson, Matthew Vermilyea, and Moshe Kam
+Code for Automatic Tracking and Motility Analysis of Human Sperm in Time-Lapse Images
+
+by Leonardo F. Urbano, Puneet Masson, Matthew Vermilyea, and Moshe Kam
+
 IEEE TRANSACTIONS ON MEDICAL IMAGING, VOL.36, NO.3, MARCH 2017
 
 Order of execution:
