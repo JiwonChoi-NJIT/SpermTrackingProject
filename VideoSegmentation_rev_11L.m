@@ -13,11 +13,11 @@ clear all; close all; font_size = 12;
 % [fileName, pathName] = uigetfile('*.mp4', 'Choose a video')
 % videoFile = fullfile(pathName, fileName);
 
-% Video A = 544
-% Video B = 449
 
-videoFile = 'C:\Users\jicho\Dropbox\Sperm Tracking Project\MATLAB Code\Sperm Tracker\544_w4_200x_TRIM.mp4'
-% videoFile = '/Users/lurbano/Desktop/IEEETMIPaper/NewVideos/449_w3_200x_TRIM.mp4'
+
+
+videoFile = '/Users/EXAMPLE/Desktop/EXAMPLE.mp4';
+
 
 tic
 
